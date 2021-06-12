@@ -357,6 +357,10 @@ We have experimentally found a moe layer for every two self-attention layers to 
 - [x] finalize documentation
 - [ ] update configs
 
+
+## Gradio Web Demo
+[Gradio](https://gradio.app/hub/AK391/gpt-neo)
+
 ## Citing GPT-Neo
 
 If you have found GPT-Neo helpful in your work, you can cite this repository as
